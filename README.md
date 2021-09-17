@@ -1,2 +1,2 @@
 # bouncing-balls
-# play using play button to start the game
+# play using play the button to start the game
