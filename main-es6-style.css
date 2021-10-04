@@ -6,6 +6,7 @@ html {
 body {
   overflow: hidden;
   height: inherit;
+  margin-top: 0;
 }
 
 h1 {
